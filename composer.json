@@ -1,0 +1,8 @@
+{
+    "name": "sopooneo/reup",
+    "autoload": {
+        "psr-0" : {
+            "SoPoOneO" : "src"
+        }
+    }
+}
